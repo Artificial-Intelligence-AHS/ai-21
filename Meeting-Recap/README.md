@@ -1,3 +1,6 @@
+# Meeting RECAPS
+Also in Discord in the `#meeting-recap` channel
+
 # **Meeting Recap # 1 (Introduction Meeting)**
 
 **September 13th 2021**
