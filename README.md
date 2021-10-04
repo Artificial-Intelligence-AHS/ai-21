@@ -2,6 +2,9 @@
 
 This will be the collaberative github for all the projects we will do during the 2021-22 year. Currently permissions are all admin but you are not allowed to commit to main, please create your own branch and create a pull request. 
 
+# Into Video
+![Video](https://github.com/Artifical-Intelligence-AHS/ai-21/blob/main/introVideo.gif?raw=true)
+
 # SignUp
 https://tinyurl.com/AHS-AI-ClubSignUp
 # Meeting days and Location

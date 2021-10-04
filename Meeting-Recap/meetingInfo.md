@@ -30,7 +30,7 @@ Every Monday there will be a meeting
 Google Docs
 AI Club Registration
 The python part of what we learned (guide) 
-<Image>
+![atom code](https://github.com/Artifical-Intelligence-AHS/ai-21/blob/main/Meeting-Recap/supportingImgs/recap2.png?raw=true)
 
 # **Meeting Recap # 3 (Second Short Python-Learning Meeting)**
 **September 27th 2021**
@@ -43,6 +43,6 @@ Today's meeting was cut short due to the Coding Club needing to take up the time
 
 If you have not already, please fill out the sign up form - https://tinyurl.com/AHS-AI-ClubSignUp
 
-<Image>
+![colab code](https://github.com/Artifical-Intelligence-AHS/ai-21/blob/main/Meeting-Recap/supportingImgs/recap3.png?raw=true)
 
 https://colab.research.google.com/drive/1ZROWwDTmeKhexhL_1E83KBic548lkTEP?usp=sharing
