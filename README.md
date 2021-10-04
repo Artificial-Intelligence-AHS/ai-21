@@ -15,7 +15,7 @@ We meet every monday after school from `3:30` - `4:30` in the Libary.
 - Class Recorder
 - *Feel free to add more*
 
-## Flying assistent
+## **Flying assistent**
 
 Create a drone that flys around completing different task based on what you say. 
 
@@ -30,10 +30,36 @@ R: Flyes around scanning for people and then their faces and returns with a name
 - Text-to-speech
 - Facial Recognition
 
-## Class Recorder
+## **Class Recorder**
 
 Record the entire class duration (lecture) and converts it to a text. By indexing who is speaking what (*if teacher is speaking or student*) create a quick summary of the class
 
 #### Topics
 - Summarization
 - Natural Language Processing
+
+## **Signature Tracking**
+
+Be able to detect/recreate signatures based on many previous signatures. 
+
+## **Robot baby**
+A robot that pants you with its robot arm whenever it ewants
+
+## **Lets not be lonely**
+Tracks where you are in the room and goes up to you to give you a hug
+
+## **Bank Account**
+
+## **Using CCTV data from school** 
+Track where a person is and its path that person will take in order to get from class A to class B
+
+
+
+
+
+
+
+
+
+
+# Plan for next `3` meetings

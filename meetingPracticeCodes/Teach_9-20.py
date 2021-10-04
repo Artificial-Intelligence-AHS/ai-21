@@ -1,7 +1,10 @@
-//sinle-line comment
-"""A multi-line comment"""
+"""
+ALL WRONG
+"""
 
-"""Variables hold a value"""
+"""
+//sinle-line comment
+
 //int
 x = 5
 //string
@@ -72,6 +75,7 @@ print(str(x) + y)
 
 """
 """ +; -; *; /; %; **"""
+"""
 // + is addition
 // - is subtraction
 // * is multiplication
@@ -107,6 +111,7 @@ x = input()
 //this takes the input and stores it as x, u can use it afterwords
 """
 """The bigger stuff"""
+"""
 //If statements, if a condition is true then it will run
 a = true
 if a:
@@ -167,7 +172,7 @@ the try will try a part or the entire code
 the except will happen if it raises and error
 if no error happens you can just pass it, or you can do something call else, which will do something if it works
 finally can be used to do something even if it gets an error or not"""
-
+"""
 try:
     print(woah)
     //x is not defined so it should raise an error
@@ -178,3 +183,4 @@ else:
 finally:
     print("We finished the try and except portion")
 //Could be used if a password was entered(a number only password and the password entered had a string, would be used to say that it doesn't contain a letter)
+"""
