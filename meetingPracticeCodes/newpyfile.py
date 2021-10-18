@@ -32,7 +32,3 @@ print("you got $", balance)
 #round, int, str, max/min, etc.
 
 
-
-# programmers cant spell
-"""What is this?"""
-
