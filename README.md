@@ -3,10 +3,10 @@
 This will be the collaberative github for all the projects we will do during the 2021-22 year. Currently permissions are all admin but you are not allowed to commit to main, please create your own branch and create a pull request. 
 
 # Into Video & Logo
-[![Video](https://github.com/Artifical-Intelligence-AHS/ai-21/blob/main/readMeInfo/aiLogo.png?raw=true)](https://www.youtube.com/watch?v=foDxFqfggR4) *click for video*
 
-![Logo Video](https://github.com/Artifical-Intelligence-AHS/ai-21/blob/main/readMeInfo/logoBlackBackground.gif?raw=true|width=50)
-
+|Video|Logo|
+|-|-|
+|<a href="https://www.youtube.com/watch?v=foDxFqfggR4"><img src="https://github.com/Artifical-Intelligence-AHS/ai-21/blob/main/readMeInfo/aiLogo.png" align="left" height="260" width="480" ></a>|<a href="https://www.youtube.com/watch?v=foDxFqfggR4"><img src="https://github.com/Artifical-Intelligence-AHS/ai-21/blob/main/readMeInfo/logoBlackBackground.gif" align="right" height="323" width="426" ></a>|
 
 
 
