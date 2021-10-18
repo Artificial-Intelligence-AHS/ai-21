@@ -12,6 +12,8 @@ This will be the collaberative github for all the projects we will do during the
 
 # SignUp
 https://tinyurl.com/AHS-AI-ClubSignUp
+# Discord
+https://discord.gg/FAMhQ3UZre
 # Meeting days and Location
 We meet every monday after school from `3:30` - `4:30` in the Libary. 
 
@@ -70,8 +72,8 @@ Track where a person is and its path that person will take in order to get from 
 
 
 
-
-
+## **Sports anaylsis**
+Anaylize sports in different ways (*Swimming*, *Football*, *Soccer**, *etc.*)
 
 
 

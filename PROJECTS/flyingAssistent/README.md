@@ -1,5 +1,5 @@
 # Flying Assistent (*Need better name*)
-
+Helpful Drone
 ![architecture diagram](https://github.com/Artifical-Intelligence-AHS/ai-21/blob/main/PROJECTS/flyingAssistent/flyingAssistent.png?raw=true)
 
 
