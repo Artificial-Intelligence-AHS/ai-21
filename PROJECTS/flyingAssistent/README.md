@@ -1,6 +1,6 @@
 # Flying Assistent (*Need better name*)
 
-![architecture diagram](https://github.com/Artifical-Intelligence-AHS/ai-21/blob/main/flyingAssistent/flyingAssistent.png?raw=true)
+![architecture diagram](https://github.com/Artifical-Intelligence-AHS/ai-21/blob/main/PROJECTS/flyingAssistent/flyingAssistent.png?raw=true)
 
 
 ## Steps to Completition
@@ -25,7 +25,7 @@
 
 ## Spotify 
 
-[Click here for Spotify Code](https://github.com/Artifical-Intelligence-AHS/ai-21/blob/main/flyingAssistent/spotify.py)
+[Click here for Spotify Code](https://github.com/Artifical-Intelligence-AHS/ai-21/blob/main/PROJECTS/flyingAssistent/spotify.py)
 
 ## Bill of Materials 
 
