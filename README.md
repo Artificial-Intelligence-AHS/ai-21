@@ -42,8 +42,10 @@ Record the entire class duration (lecture) and converts it to a text. By indexin
 
 Be able to detect/recreate signatures based on many previous signatures. 
 
-## **Robot baby**
-A robot that pants you with its robot arm whenever it ewants
+## **Document Sort**
+Sorts through all documents on local harddrive and determines which class each document goes to
+
+
 
 ## **Lets not be lonely**
 Tracks where you are in the room and goes up to you to give you a hug
