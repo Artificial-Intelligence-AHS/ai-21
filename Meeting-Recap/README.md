@@ -49,3 +49,25 @@ If you have not already, please fill out the sign up form - https://tinyurl.com/
 ![colab code](https://github.com/Artifical-Intelligence-AHS/ai-21/blob/main/Meeting-Recap/supportingImgs/recap3.png?raw=true)
 
 https://colab.research.google.com/drive/1ZROWwDTmeKhexhL_1E83KBic548lkTEP?usp=sharing
+
+# **Meeting Recap # 4 (Third Python-Learning Meeting / First mini-project)**
+
+**October 4th 2021**
+
+We taught more of the basics of Python including if statements, else if, else, functions, functions, touched on a little more about multi-line comments, briefly mentioned inputs, and conditional phrases. 
+
+We made a simple "Bank" simulator as a mini-project to check on our ability to use operations and to learn more about programming. (Practical)
+
+We used W3 schools to learn about if/elif/else statements.
+
+ If you did not attend this meeting please try to make it to the other meetings and if you cannot attend a meeting make sure you tell us before the club. If you are out a few times without warning or you are out many times with warning you will be removed from the club.
+
+If you have not already, please fill out the sign up form - https://tinyurl.com/AHS-AI-ClubSignUp
+
+Programming Mini-Project we did today in class
+
+![bank code](https://github.com/Artifical-Intelligence-AHS/ai-21/blob/main/Meeting-Recap/supportingImgs/recap4.png?raw=true)
+
+https://www.w3schools.com/python/python_conditions.asp
+
+W3 schools page we went over to teach Conditional (if/elif/else) statements
