@@ -46,6 +46,11 @@ Be able to detect/recreate signatures based on many previous signatures.
 Sorts through all documents on local harddrive and determines which class each document goes to
 
 
+## **Stock Price Prediction**
+In this AI project, you may try to forecast 6-month price fluctuations of a stock using data from the organization's given reports.
+
+## **Handwritten Digits Recognition**
+Building a handwritten digits recognition system that can recognise the numbers drawn by people to recognise handwritten mathematical symbols
 
 ## **Lets not be lonely**
 Tracks where you are in the room and goes up to you to give you a hug
