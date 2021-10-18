@@ -2,6 +2,27 @@
 
 This will be the collaberative github for all the projects we will do during the 2021-22 year. Currently permissions are all admin but you are not allowed to commit to main, please create your own branch and create a pull request. 
 
+## **CLONING GITHUB**
+
+1. Open `git bash` which you just installed
+2.  In the terminal use `cd` to move to the location you want to clone the respitory to. (*highly recommend going to your documents folder and `mkdir ai-club` (or any folder name))* 
+3.  Run the following command. `git clone https://github.com/Artificial-Intelligence-AHS/ai-21.git`
+
+
+## **Commiting to github**
+
+### Visual Studio
+*Ask Kunal Demo*
+### Everything else
+ (more explain during meeting)
+```git
+git init
+git add .
+git commit -m "Initial commit"
+git remote add origin <project url>
+git push -f origin master
+```
+
 # Into Video & Logo
 
 |Video|Logo|
@@ -77,6 +98,21 @@ Anaylize sports in different ways (*Swimming*, *Football*, *Soccer**, *etc.*)
 
 
 
+# **Set-Up**
+## **Python Set-Up**
+1. Click download https://www.python.org/downloads/
+2. Go through process, shouldn't take too long 
 
 
-# Plan for next `3` meetings
+## **Jupyter SetUp**
+3. [https://www.anaconda.com/distribution/](https://www.anaconda.com/distribution/)
+4. Most of you have 64 bit computers, if you don't know then either ask on group chat or check this https://support.microsoft.com/en-us/windows/32-bit-and-64-bit-windows-frequently-asked-questions-c6ca9541-8dce-4d48-0415-94a3faa2e13d
+5. Click next *slowly* don't rush through it
+6. Make sure you select **ADD ANACONDA TO MY PATH ENVIORMENT VARIABLE**
+7. Click finish
+
+(Check discord for images)
+
+## **ATOM Set-Up** 
+1. Follow https://www.geeksforgeeks.org/how-to-setup-atom-editor-with-all-the-required-packages/
+
