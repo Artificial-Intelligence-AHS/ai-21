@@ -71,3 +71,20 @@ Programming Mini-Project we did today in class
 https://www.w3schools.com/python/python_conditions.asp
 
 W3 schools page we went over to teach Conditional (if/elif/else) statements
+
+# **Meeting Recap # 4 (Fourth Python-Learning Meeting / AI project introduction)**
+**October 18th 2021**
+
+We taught more about Python and learn about loops and the types of loops. (Loop and a half, while loops, infinite loops, for loops, looping through arrays, and looping through strings) We also briefly touched about  input and understood how to use the input.
+
+We learned a little bit about how AI works and how Optical Character Recognition works with AWS. (Learned about how a computer will check patterns to find a similarity between the given data and the entered image/information)
+
+We learned about how to clone from the github and slightly touched on GitBash
+
+We also mentioned how we recommend that you setup a IDE for programming (For now Atom (Recommended) or Visual Studios Code)
+
+If you did not attend this meeting please try to make it to the other meetings and if you cannot attend a meeting make sure you tell us before the club. If you are out a few times without warning or you are out many times with warning you will be removed from the club.
+
+If you have not already, please fill out the sign up form - https://tinyurl.com/AHS-AI-ClubSignUp
+
+![for loops code](https://github.com/Artifical-Intelligence-AHS/ai-21/blob/main/Meeting-Recap/supportingImgs/recap5.png?raw=true)
