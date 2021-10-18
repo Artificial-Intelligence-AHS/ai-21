@@ -43,6 +43,9 @@ Record the entire class duration (lecture) and converts it to a text. By indexin
 - Summarization
 - Natural Language Processing
 
+## **Emojify** 
+Generate an emoji based on what face emotion your making. Read previous messages and predict the type of emoji needed.
+
 ## **Signature Tracking**
 
 Be able to detect/recreate signatures based on many previous signatures. 
@@ -61,7 +64,7 @@ Building a handwritten digits recognition system that can recognise the numbers 
 Tracks where you are in the room and goes up to you to give you a hug
 
 ## **Bank Account**
-
+In the `meetingPracticeCodes` folder
 ## **Using CCTV data from school** 
 Track where a person is and its path that person will take in order to get from class A to class B
 
