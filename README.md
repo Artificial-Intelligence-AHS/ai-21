@@ -2,12 +2,28 @@
 
 This will be the collaberative github for all the projects we will do during the 2021-22 year. Currently permissions are all admin but you are not allowed to commit to main, please create your own branch and create a pull request. 
 
-## **CLONING GITHUB**
+## **Process to upload to GITHUB for AI Club**
+This is the layed out process that we will go through in order to handle all the github branches and its needed requirments.
 
-1. Open `git bash` which you just installed
-2.  In the terminal use `cd` to move to the location you want to clone the respitory to. (*highly recommend going to your documents folder and `mkdir ai-club` (or any folder name))* 
-3.  Run the following command. `git clone https://github.com/Artificial-Intelligence-AHS/ai-21.git`
+1. Send a request to #leadership in order to create your branch with the following
+    - Explain general idea of project
+    - Name for branch
+    - Who do you plan on working on it (more people are welcome to add just the prelimeray ideas)
+2.  Once the branch is approved, clone the respository using the following steps
+3.  Download Gitbash 
+4.  In terminal use `cd` to move to the location you want to clone the respitory to.
+5.  Run the following command. `git clone https://github.com/Artificial-Intelligence-AHS/ai-21.git`
+6. Run `cd ai-21` in order to go into the directory just created
+7. Run `ls` and the response should be `Meeting-Recap/  PROJECTS/  README.md  meetingPracticeCodes/  readMeInfo/`
+8. Run `git branch -a` and response should include your added branch name
+9. Run `git checkout -b *name-of-branch*` and the blue main should become your branch name
+10. Run `git pull origin *name-of-branch*`
 
+**Here you will open the code in your own IDE and make new files, change files and do everything you want to write**
+
+11. Run `git add .` see all the changes detected
+12. Run `git commit -m "*message-describing-change-you made(quick)*"`
+13. Run `git push -u origin *name-of-branch*`
 
 ## **Commiting to github**
 
