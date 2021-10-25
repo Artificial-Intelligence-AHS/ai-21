@@ -1,4 +1,4 @@
-# AI-2021
+# Artifical Intelligence Club 2021 
 
 This will be the collaberative github for all the projects we will do during the 2021-22 year. Currently permissions are all admin but you are not allowed to commit to main, please create your own branch and create a pull request. 
 
