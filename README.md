@@ -28,7 +28,13 @@ This is the layed out process that we will go through in order to handle all the
 ## **Commiting to github**
 
 ### Visual Studio
-*Ask Kunal Demo*
+
+Follow the steps in the following pictures
+
+![VS code 1](https://github.com/Artificial-Intelligence-AHS/ai-21/tree/voice_recognition/readMeInfo/VSCODEUPLOAD1.png?raw=true)
+
+![VS code 1](https://github.com/Artificial-Intelligence-AHS/ai-21/tree/voice_recognition/readMeInfo/VSCODEUPLOAD2.png?raw=true)
+
 ### Everything else
  (more explain during meeting)
 ```git
