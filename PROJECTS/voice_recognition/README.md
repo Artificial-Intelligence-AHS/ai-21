@@ -20,5 +20,9 @@ Insert here
 ## Contributers
 
 - Input your names
+<<<<<<< HEAD
 @Gtadia
+=======
+- @max
+>>>>>>> 61b790345dc7a60c5d97d34bce967c51cad3626b
 
