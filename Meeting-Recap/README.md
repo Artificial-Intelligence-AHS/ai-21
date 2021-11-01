@@ -71,8 +71,7 @@ Programming Mini-Project we did today in class
 https://www.w3schools.com/python/python_conditions.asp
 
 W3 schools page we went over to teach Conditional (if/elif/else) statements
-
-# **Meeting Recap # 4 (Fourth Python-Learning Meeting / AI project introduction)**
+## Meeting Recap # 5 (Fourth Python-Learning Meeting / AI project introduction)
 **October 18th 2021**
 
 We taught more about Python and learn about loops and the types of loops. (Loop and a half, while loops, infinite loops, for loops, looping through arrays, and looping through strings) We also briefly touched about  input and understood how to use the input.
@@ -87,4 +86,32 @@ If you did not attend this meeting please try to make it to the other meetings a
 
 If you have not already, please fill out the sign up form - https://tinyurl.com/AHS-AI-ClubSignUp
 
-![for loops code](https://github.com/Artifical-Intelligence-AHS/ai-21/blob/main/Meeting-Recap/supportingImgs/recap5.png?raw=true)
+<INSERT IMAGE
+
+## Meeting Recap # 6 (First-group meeting)
+**October 25th 2021**
+
+### **Begineer Group**
+We split up into groups today and in the beginner's group worked on everything we have learned so far, until for loops. (Input, Print, Variables/Variable Types, Casting, Concatenation, For loops, and if statements)
+
+We added a bit of terrible programmer humor with: 
+!False
+Its funny because its true
+
+(! = not, and not false means true 😉 )
+
+We recommend that you set-up and ide or online compiler that can help you work interactively in the club
+
+Programming references will be on Github
+
+If you did not attend this meeting please try to make it to the other meetings and if you cannot attend a meeting make sure you tell us before the club. If you are out a few times without warning or you are out many times with warning you will be removed from the club.
+
+If you have not already, please fill out the sign up form - https://tinyurl.com/AHS-AI-ClubSignUp
+
+<Insert Image>
+
+### **Advanced Group**
+
+We set up Visual Studio Code on all computers and connected to the github. Also working on starting the *Voice Recognition* project using different APIs. 
+
+------------------------------
