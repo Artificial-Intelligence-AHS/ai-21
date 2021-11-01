@@ -19,6 +19,11 @@ Insert here
 
 ## Contributers
 
+<<<<<<< HEAD
+- @
+- @ Kunal
+
+=======
 - Input your names
 <<<<<<< HEAD
 @Gtadia
