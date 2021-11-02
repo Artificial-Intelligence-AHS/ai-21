@@ -1,7 +1,8 @@
 # Voice Recognition
+A voice assistent robot activated by voice running in background that is directly made for a high school student. Learn how the different libraries and APIs work and how to use them and apply them to such a proje
+
 Currently our plan is to use external APIs and libaries to build this project so we have a basic voice recognition system. Once completed we will be able to build our own model 
 
-- Insert Description
 - Research some needed process to start or libaries needed
 - Maybe some starters: `https://realpython.com/python-speech-recognition/`
 
@@ -9,13 +10,31 @@ Currently our plan is to use external APIs and libaries to build this project so
 
 |Command|Result|
 |-|-|
-|What is your name|**My Name is Voicer**|
-# Final Goal for the project
-Insert here
+|What is your name|**My Name is Sphinx**|
+|Who created you?|**AI Club at AHS**|
+
+
 # Different Libaries and APIs to use
 - https://cloud.google.com/speech-to-text
 - https://pypi.org/project/SpeechRecognition/
 - https://cloud.google.com/speech-to-text/docs/libraries
+
+# Google Cloud Platform
+Using the speech-to-text API, all contributers have access to the program. 
+
+Access: https://console.cloud.google.com/speech/transcriptions/create?project=voice-recognition-330818
+
+## Access to the `key.json` file is limited
+Check Discord for link 
+
+### Exporting the key.json file to environment variables
+
+**WINDOWS**
+`set GOOGLE_APPLICATION_CREDENTIALS=KEY_PATH`
+`set GOOGLE_APPLICATION_CREDENTIALS="/home/user/Downloads/service-account-file.json"`
+**MAC**
+`export GOOGLE_APPLICATION_CREDENTIALS="KEY_PATH"`
+`export GOOGLE_APPLICATION_CREDENTIALS="/home/user/Downloads/service-account-file.json"`
 ## Contributers
 
 - @Rishik2019
