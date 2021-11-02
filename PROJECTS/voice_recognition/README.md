@@ -15,9 +15,12 @@ Insert here
 # Different Libaries and APIs to use
 - https://cloud.google.com/speech-to-text
 - https://pypi.org/project/SpeechRecognition/
-
 - https://cloud.google.com/speech-to-text/docs/libraries
 ## Contributers
 
-
-
+- @Rishik2019
+- @Maxgoodman07
+- @Gtadia
+- @z-ghazanfar
+- @Kunal2341
+- @Artificial-Intelligence-AHS
