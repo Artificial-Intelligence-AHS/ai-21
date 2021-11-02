@@ -114,4 +114,22 @@ If you have not already, please fill out the sign up form - https://tinyurl.com/
 
 We set up Visual Studio Code on all computers and connected to the github. Also working on starting the *Voice Recognition* project using different APIs. 
 
-------------------------------
+## Meeting Recap # 7 (Beginner Group Learning/Project)
+**November 1st 2021**
+
+### **Begineer Group**
+We split up into groups and learned about while loops, went over a little bit of casting, practiced debugging, and made a simple calculator that we will upgrade next meeting. (While loops)
+
+If you did not come to this meeting set-up an ide or online compiler that can help you work interactively in the club (Jetbrains Datalore is a easy one)
+
+If you did not attend this meeting please try to make it to the other meetings and if you cannot attend a meeting make sure you tell us before the club. If you are out a few times without warning or you are out many times with warning you will be removed from the club.
+
+<Insert Picture>
+
+### **Advanced Group**
+We broke down the project and started a theroetical design of the project. Set up the Voice Recognition project on google cloud platform and gave access to all students. We decided the name of project will be **Sphinx** and recorded different variences of speaking **Sphinx**. 
+
+Using the recorded audio files we are going to split the audio into different parts to create a training dataset. In order to split, we will design a threshold set at background noise using the spectogram of the graph and get each point (Start and End) of saying **Sphinx**. We will send data to the API to recognize the words.
+
+Also plan to use OpenAI *Codex* to create converstation with program. 
+
