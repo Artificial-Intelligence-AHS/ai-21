@@ -23,7 +23,7 @@ Currently our plan is to use external APIs and libaries to build this project so
 Using the speech-to-text API, all contributers have access to the program. 
 
 Access: https://console.cloud.google.com/speech/transcriptions/create?project=voice-recognition-330818
-
+https://cloud.google.com/speech-to-text/docs/samples/speech-transcribe-onprem
 ## Access to the `key.json` file is limited
 Check Discord for link 
 
