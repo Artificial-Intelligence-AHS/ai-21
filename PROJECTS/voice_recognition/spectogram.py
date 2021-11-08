@@ -2,7 +2,6 @@ import matplotlib.pyplot as plt
 from scipy.io import wavfile
 
 # import the libraries
-local_file_path = '/Users/kunal/Documents/AI-21/ai-21/PROJECTS/voice_recognition/audioFiles/3.wav'
 local_file_path = './PROJECTS/voice_recognition/audioFiles/3.wav'
 
 # Read the wav file (mono)
@@ -23,6 +22,21 @@ plt.xlabel('Time')
 plt.ylabel('Frequency')
 
 plt.show()
+
+# Plot only spectogram
+
+plt.plot(signalData)
+plt.xlabel('Sample')
+plt.ylabel('Amplitude')
+
+plt.axvline(x=35550, color='r', linestyle='--')
+
+plt.axhline(y=777, color='r', linestyle='-')
+
+plt.show()
+
+#print(signalData)
+
 
 
 # OTHER CODE
