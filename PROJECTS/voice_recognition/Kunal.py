@@ -86,3 +86,27 @@ for result in response.results:
     # The first alternative is the most likely one for this portion.
     print(u"Transcript: {}".format(result.alternatives[0].transcript))
     print("Confidence: {}".format(result.alternatives[0].confidence))
+
+
+average = sum(signalData) / len(signalData)
+print("Average: {}".format(average))
+
+# MY CODE
+totalSumNonZero = 0
+ct = 0
+for num in signalData:
+    if num != 0:
+        totalSumNonZero+=num
+        ct+=1
+averageNonZero = totalSumNonZero / ct
+print("Average Non Zero: {}".format(averageNonZero))
+
+
+totalSumNonZero = 0
+ct = 0
+for num in signalData:
+    if num > 10:
+        totalSumNonZero+=num
+        ct+=1
+averageNonZero = totalSumNonZero / ct
+print("Average Non Zero: {}".format(averageNonZero))

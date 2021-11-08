@@ -35,6 +35,18 @@ Check Discord for link
 **MAC**
 `export GOOGLE_APPLICATION_CREDENTIALS="KEY_PATH"`
 `export GOOGLE_APPLICATION_CREDENTIALS="/home/user/Downloads/service-account-file.json"`
+
+# Audio Files
+
+We are going to first convert the files to a .wav format in order to display them into with a spectogram.
+https://audio.online-convert.com/convert-to-wav
+
+
+Using the spectogram we are going to find the average
+The sampling frequency or sampling rate, fs, is the average number of samples obtained in one second, thus fs = 1/T. In other words, fs is the inverse of the sampling period, T.
+
+
+
 ## Contributers
 
 - @Rishik2019
