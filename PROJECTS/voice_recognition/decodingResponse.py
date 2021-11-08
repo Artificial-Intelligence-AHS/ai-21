@@ -27,8 +27,15 @@ print(int((data['results'][1]['alternatives'][0]['words'][0]['startTime']).strip
 
 
 # Write a program that will return the following response:
+
+for i in data['results'][1]['alternatives'][0]['words']:
+    print("Confidence: {:.2f}".format(i['confidence']*100))
+    #print(f'Confidence: {i['confidence']*100}')
+    print("Word ")
+print(data['results'][1]['alternatives'][0]['words'][0]['confidence']*100)
+
 """
-Word 1: Sphinx with confidence of 80% starting at 0.2 seconds and ending at 0.5 seconds.
+Word 1: Sphinx with confidence of 98.7% starting at 0.2 seconds and ending at 0.5 seconds.
 Word 2: Sphinx with confidence of x% starting at 0.2 seconds and ending at 0.5 seconds.
 Word 3: Sphinx with confidence of 80% starting at 0.2 seconds and ending at 0.5 seconds.
 """
