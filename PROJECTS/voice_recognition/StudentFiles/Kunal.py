@@ -32,6 +32,7 @@ config = speech.RecognitionConfig(
     encoding=speech.RecognitionConfig.AudioEncoding.LINEAR16,
     language_code="en-US",
     sample_rate_hertz=8000,
+    #speechContexts = [speech.SpeechContext(phrases=["sphinx"])]
 )
 
 response = client.recognize(config=config, audio=audio)
