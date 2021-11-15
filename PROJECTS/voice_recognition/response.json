@@ -1,64 +1,64 @@
 {
-    "results": [ {
-      "alternatives": [ {
+  "results": [ {
+    "alternatives": [ {
+      "confidence": 0.26557064,
+      "transcript": "stinks",
+      "words": [ {
         "confidence": 0.26557064,
-        "transcript": "stinks",
-        "words": [ {
-          "confidence": 0.26557064,
-          "endTime": "0.900s",
-          "startTime": "0.200s",
-          "word": "stinks"
-        } ]
-      } ],
-      "languageCode": "en-us",
-      "resultEndTime": "1.510s"
-    }, {
-      "alternatives": [ {
-        "confidence": 0.987629,
-        "transcript": " Spanx Spanx Spanx Spanx Spanx Spanx Spanx Spanx",
-        "words": [ {
-          "confidence": 0.98762906,
-          "endTime": "2.800s",
-          "startTime": "2s",
-          "word": "Spanx"
-        }, {
-          "confidence": 0.98762906,
-          "endTime": "3.400s",
-          "startTime": "2.800s",
-          "word": "Spanx"
-        }, {
-          "confidence": 0.98762906,
-          "endTime": "3.900s",
-          "startTime": "3.400s",
-          "word": "Spanx"
-        }, {
-          "confidence": 0.98762906,
-          "endTime": "4.600s",
-          "startTime": "3.900s",
-          "word": "Spanx"
-        }, {
-          "confidence": 0.98762906,
-          "endTime": "5.300s",
-          "startTime": "4.600s",
-          "word": "Spanx"
-        }, {
-          "confidence": 0.98762906,
-          "endTime": "6.600s",
-          "startTime": "5.300s",
-          "word": "Spanx"
-        }, {
-          "confidence": 0.98762906,
-          "endTime": "7.500s",
-          "startTime": "6.600s",
-          "word": "Spanx"
-        }, {
-          "confidence": 0.98762906,
-          "endTime": "9.100s",
-          "startTime": "7.500s",
-          "word": "Spanx"
-        } ]
-      } ],
-      "languageCode": "en-us",
-      "resultEndTime": "14.040s"
-    } ]
-  }
+        "endTime": "0.900s",
+        "startTime": "0.200s",
+        "word": "stinks"
+      } ]
+    } ],
+    "languageCode": "en-us",
+    "resultEndTime": "1.510s"
+  }, {
+    "alternatives": [ {
+      "confidence": 0.987629,
+      "transcript": " Spanx Spanx Spanx Spanx Spanx Spanx Spanx Spanx",
+      "words": [ {
+        "confidence": 0.98762906,
+        "endTime": "2.800s",
+        "startTime": "2s",
+        "word": "Spanx"
+      }, {
+        "confidence": 0.98762906,
+        "endTime": "3.400s",
+        "startTime": "2.800s",
+        "word": "Spanx"
+      }, {
+        "confidence": 0.98762906,
+        "endTime": "3.900s",
+        "startTime": "3.400s",
+        "word": "Spanx"
+      }, {
+        "confidence": 0.98762906,
+        "endTime": "4.600s",
+        "startTime": "3.900s",
+        "word": "Spanx"
+      }, {
+        "confidence": 0.98762906,
+        "endTime": "5.300s",
+        "startTime": "4.600s",
+        "word": "Spanx"
+      }, {
+        "confidence": 0.98762906,
+        "endTime": "6.600s",
+        "startTime": "5.300s",
+        "word": "Spanx"
+      }, {
+        "confidence": 0.98762906,
+        "endTime": "7.500s",
+        "startTime": "6.600s",
+        "word": "Spanx"
+      }, {
+        "confidence": 0.98762906,
+        "endTime": "9.100s",
+        "startTime": "7.500s",
+        "word": "Spanx"
+      } ]
+    } ],
+    "languageCode": "en-us",
+    "resultEndTime": "14.040s"
+  } ]
+}

@@ -8,20 +8,13 @@ local_file_path = './PROJECTS/voice_recognition/audioFiles/3.wav'
 samplingFrequency, signalData = wavfile.read(local_file_path)
 print(samplingFrequency)
 
-# Plot the signal read from wav file
-plt.subplot(211)
-plt.title('Spectrogram of a wav file with piano music')
+signalDataNormalized = []
+for i in signalData:
+    if abs(i) > 2000:
+        signalDataNormalized.append(i)
+    else:
+        signalDataNormalized.append(0) 
 
-plt.plot(signalData)
-plt.xlabel('Sample')
-plt.ylabel('Amplitude')
-
-plt.subplot(212)
-plt.specgram(signalData,Fs=samplingFrequency)
-plt.xlabel('Time')
-plt.ylabel('Frequency')
-
-plt.show()
 
 # Plot only spectogram
 
@@ -29,10 +22,21 @@ plt.plot(signalData)
 plt.xlabel('Sample')
 plt.ylabel('Amplitude')
 
-plt.axvline(x=35550, color='r', linestyle='--')
+plt.axvline(x=29700, color='r', linestyle='--')
 
-plt.axhline(y=777, color='r', linestyle='-')
+plt.axhline(y=2000, color='r', linestyle='-')
+plt.axhline(y=-2000, color='r', linestyle='-')
 
+plt.show()
+
+print(signalData)
+
+plt.plot(signalDataNormalized)
+plt.xlabel('Sample')
+plt.ylabel('Amplitude')
+
+plt.axhline(y=2000, color='r', linestyle='-')
+plt.axhline(y=-2000, color='r', linestyle='-')
 plt.show()
 
 #print(signalData)
