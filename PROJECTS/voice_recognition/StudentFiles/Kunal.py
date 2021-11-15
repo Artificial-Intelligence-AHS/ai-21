@@ -15,7 +15,7 @@ from google.cloud import speech
 import io
 
 key_path = '/Users/kunal/Documents/AI-21/keys/voice-recognition-key.json'
-
+#hello
 with open(key_path, 'r') as j:
     service_account_info = json.loads(j.read())
 credentials = service_account.Credentials.from_service_account_info(service_account_info)
