@@ -45,6 +45,10 @@ https://audio.online-convert.com/convert-to-wav
 Using the spectogram we are going to find the average
 The sampling frequency or sampling rate, fs, is the average number of samples obtained in one second, thus fs = 1/T. In other words, fs is the inverse of the sampling period, T.
 
+# Links
+https://cloud.google.com/speech-to-text/docs/speech-adaptation
+https://cloud.google.com/speech-to-text/docs/class-tokens
+https://cloud.google.com/speech-to-text/docs/boost
 
 
 ## Contributers
