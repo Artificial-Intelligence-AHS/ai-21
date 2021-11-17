@@ -50,6 +50,14 @@ https://cloud.google.com/speech-to-text/docs/speech-adaptation
 https://cloud.google.com/speech-to-text/docs/class-tokens
 https://cloud.google.com/speech-to-text/docs/boost
 
+Min - "Sphinx, Traffic to school address"
+
+
+Max - "Sphinx, What is the weather"
+Pranshu - "Sphinx, Current NFL Scores"
+Rishik - "Sphinx, What is the time"
+
+
 
 ## Contributers
 
