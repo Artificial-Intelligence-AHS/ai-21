@@ -133,3 +133,6 @@ Using the recorded audio files we are going to split the audio into different pa
 
 Also plan to use OpenAI *Codex* to create converstation with program. 
 
+### **Advanced Group**
+
+We finished up the calculations of start 
