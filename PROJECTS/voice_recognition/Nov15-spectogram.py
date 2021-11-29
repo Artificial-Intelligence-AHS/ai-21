@@ -29,7 +29,7 @@ plt.axhline(y=-2000, color='r', linestyle='-')
 
 plt.show()
 
-print(signalData)
+#print(signalData)
 
 plt.plot(signalDataNormalized)
 plt.xlabel('Sample')
@@ -37,6 +37,17 @@ plt.ylabel('Amplitude')
 
 plt.axhline(y=2000, color='r', linestyle='-')
 plt.axhline(y=-2000, color='r', linestyle='-')
+
+placesOfSpeaking = [[4044, 5496], [11340, 12490], [18961, 20296], [26896, 27909], [33599, 36533], [43744, 45175], [53262, 54520], [61861, 62349], [69874, 71380], [78403, 79734], [101712, 102442], [108563, 110210], [112634, 112855], [115213, 126504]]
+
+
+for i in placesOfSpeaking:
+    plt.axvline(x=i[0], color='r', linestyle='--')
+    plt.axvline(x=i[1], color='g', linestyle='--')
+
+
+
+
 plt.show()
 
 #print(signalData)

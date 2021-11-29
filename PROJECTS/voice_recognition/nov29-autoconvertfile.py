@@ -10,7 +10,7 @@ from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.support.ui import Select
 
 driver = webdriver.Chrome(ChromeDriverManager().install())
-driver.get("https://audio.online-convert.com/convert-to-wav")   # Open the website
+driver.get("https://audio.online-convert.com/convert-to-wav")               # Open the website
 
 # Make sure that file is in the directory and ends with ?raw=true
 audioFileGithubLink = "https://github.com/Artificial-Intelligence-AHS/ai-21/blob/\
