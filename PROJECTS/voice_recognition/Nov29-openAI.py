@@ -1,3 +1,5 @@
+#Create an account and get the key
+# https://beta.openai.com/examples
 import os
 import openai
 
@@ -26,4 +28,3 @@ response = openai.Completion.create(
 
 print(response)
 
-# https://beta.openai.com/examples

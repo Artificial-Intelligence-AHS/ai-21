@@ -16,7 +16,7 @@ from google.oauth2 import service_account
 from google.cloud import speech
 import io
 
-key_path = '/Users/kunal/Documents/AI-21/keys/voice-recognition-key.json'
+key_path = '../keys/voice-recognition-gcp-key.json'
 #hello
 with open(key_path, 'r') as j:
     service_account_info = json.loads(j.read())
