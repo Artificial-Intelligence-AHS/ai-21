@@ -98,7 +98,7 @@ We added a bit of terrible programmer humor with:
 !False
 Its funny because its true
 
-(! = not, and not false means true 😉 )
+(! = not, and not false means true 😉)
 
 We recommend that you set-up and ide or online compiler that can help you work interactively in the club
 
@@ -135,4 +135,4 @@ Also plan to use OpenAI *Codex* to create converstation with program.
 
 ### **Advanced Group**
 
-We finished up the calculations of start 
+We finished up the calculations of start and end points of the audio files and sent them to the API to recognize the words. We also created a program that will use the API to create a conversation with the user.
