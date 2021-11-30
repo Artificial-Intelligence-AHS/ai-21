@@ -20,7 +20,7 @@ driver.find_element_by_id("remoteUrlInput").send_keys(audioFileGithubLink)  # En
 driver.find_element_by_id("addRemoteUrlButton").click()                     # Click the add remote url button
 
 select = Select(driver.find_element_by_id('frequency'))                     # Select the frequency
-select.select_by_value('8000')                                             # 16000 Hz
+select.select_by_value('8000')                                              # 16000 Hz
 select2 = Select(driver.find_element_by_id('channels'))                     # Select the channels
 select2.select_by_value('mono')                                             # Mono
 

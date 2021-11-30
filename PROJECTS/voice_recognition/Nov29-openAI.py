@@ -4,13 +4,16 @@ import os
 import openai
 
 def getkey():
-    try:
-        return open("../keys/openAIKey.txt", "r")
+  try:
+    with open("../keys/openAIKey.txt") as f:
+      contents = f.readlines()
+    return contents
     except FileNotFoundError:
         print("File not found")
         return None
-
-openai.api_key = "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"
+print(getkey())
+"""
+openai.api_key = getkey()
 
 response = openai.Completion.create(
   engine="davinci",
@@ -26,3 +29,4 @@ response = openai.Completion.create(
 
 print(response)
 
+"""
