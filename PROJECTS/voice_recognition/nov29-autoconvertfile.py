@@ -13,16 +13,14 @@ driver = webdriver.Chrome(ChromeDriverManager().install())
 driver.get("https://audio.online-convert.com/convert-to-wav")               # Open the website
 
 # Make sure that file is in the directory and ends with ?raw=true
-audioFileGithubLink = "https://github.com/Artificial-Intelligence-AHS/ai-21/blob/\
-                       voice_recognition/PROJECTS/voice_recognition/audioFiles/\
-                       1.mp3?raw=true"                                      # Link to the audio file on github
+audioFileGithubLink = "https://github.com/Artificial-Intelligence-AHS/ai-21/blob/voice_recognition/PROJECTS/voice_recognition/audioFiles/1.mp3?raw=true"                                      # Link to the audio file on github
 
 driver.find_element_by_id("externalUrlButton").click()                      # Click the external url button
 driver.find_element_by_id("remoteUrlInput").send_keys(audioFileGithubLink)  # Enter the link
 driver.find_element_by_id("addRemoteUrlButton").click()                     # Click the add remote url button
 
 select = Select(driver.find_element_by_id('frequency'))                     # Select the frequency
-select.select_by_value('16000')                                             # 16000 Hz
+select.select_by_value('8000')                                             # 16000 Hz
 select2 = Select(driver.find_element_by_id('channels'))                     # Select the channels
 select2.select_by_value('mono')                                             # Mono
 

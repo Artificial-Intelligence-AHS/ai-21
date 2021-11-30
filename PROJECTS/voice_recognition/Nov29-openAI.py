@@ -10,15 +10,13 @@ def getkey():
         print("File not found")
         return None
 
-openai.api_key = getkey()
+openai.api_key = "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"
 
 response = openai.Completion.create(
   engine="davinci",
-  prompt="The following is a conversation with an AI assistant. The assistant is \
-          helpful, creative, clever, and very friendly.\n\nHuman: Hello, who are \
-          you?\nAI: I am an AI created by OpenAI. How can I help you today?\nHuman: \
-          I'd like to cancel my subscription.\nAI:",
-  temperature=0.9,
+  prompt="Human: why does min never know how to work github on vs?\
+          \nAI:",
+  temperature=0.9, # 0.9 is the default value for temperature and 0.5 is the default value for top_p
   max_tokens=150,
   top_p=1,
   frequency_penalty=0.0,
