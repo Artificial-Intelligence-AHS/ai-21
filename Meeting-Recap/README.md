@@ -136,3 +136,12 @@ Also plan to use OpenAI *Codex* to create converstation with program.
 ### **Advanced Group**
 
 We finished up the calculations of start and end points of the audio files and sent them to the API to recognize the words. We also created a program that will use the API to create a conversation with the user.
+
+
+### **ADVANCED Group**
+
+We worked on many different aspects of program to bring everything together. We are able to take the audio and find the first and ending hertz rate positions whenever someone speaks and adds a buffer to before and end. Using those positions, we are able to split the audio file and save it named accurately. 
+
+We also shared our commented code for automated conversion of a recorded .mp3 file to an .wav file. This uses selenium and auto controls the website and clicks many buttons from audio file from the github. Downloads the wav file to 8000 and mono changes. 
+
+We futher moved on to setting up the Open-AI API on python calling the API and formatting the print result. We later tested questions on the chat version of DaVinci and learned that the responses are not always safe to responds so we must create a well-designed filter over the response text to filter out explicit words and other information’s. May need to test out the different variables including the temperature and response length with accuracy included.  
